@@ -19,3 +19,5 @@ The project is broken down in to the following sections:
 * Create a line plot and a scatter plot.
 * Calculate correlation and regression.
 * Submit your final analysis.
+
+The python code to analyze the data is called 'pymaceuticals_analysis.ipynb'. This file was based on 'starter_code.ipynb'. Supporting documentation is available in the folder with the same name.
